@@ -19,9 +19,5 @@ public class LangaugeHandler
     cpw.mods.fml.common.registry.LanguageRegistry.addName(new ItemStack(NewMod.mud), "Mud");
     
     cpw.mods.fml.common.registry.LanguageRegistry.addName(new ItemStack(NewMod.slimePad), "Slime Pad");
-    
-    cpw.mods.fml.common.registry.LanguageRegistry.addName(new ItemStack(NewMod.willowLog), "Willow Log");
-    cpw.mods.fml.common.registry.LanguageRegistry.addName(new ItemStack(NewMod.willowPlank), "Willow Planks");
-    cpw.mods.fml.common.registry.LanguageRegistry.addName(new ItemStack(NewMod.willowLeaves), "Willow Leaves");
   } 
 } 
